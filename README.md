@@ -1,7 +1,4 @@
-# Omar Abdulkadir
-
-### Curious Mind · Cybersecurity
-
+<h1 align="center">Omar Abdulkadir</h1> <p align="center"><b>Curious Mind · Cybersecurity</b></p> <br> <h3 align="center"><i>"Every expert was once curious.<br>This is where my journey begins."</i></h3> <br>
 ---
 
 ## About Me
@@ -44,7 +41,7 @@ A web application I built and deployed with Vercel. More details in the project'
 Here I share my study notes, lab write-ups, scripts and projects as I build my skills.
 
 ---
-Every expert was once curious. This is where my journey begins.
+
 ## Contact
 
 **LinkedIn:** [Omar Abdulkadir](https://www.linkedin.com/in/your-profile)
